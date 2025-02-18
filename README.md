@@ -49,6 +49,7 @@ The model's performance is rigorously assessed using 5-fold cross-validation. Th
 
 ## File Structure
 
+```text
 feature-extraction-from-images/
 ├── README.md                  # This file
 ├── main.py                     # Main Python script
