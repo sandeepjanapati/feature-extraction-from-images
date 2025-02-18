@@ -49,12 +49,12 @@ The model's performance is rigorously assessed using 5-fold cross-validation. Th
 
 ## File Structure
 
-feature-extraction-from-images/
-├── README.md # This file
-├── main.py # Main Python script
-├── constants.py # Allowed units and entity mappings
-├── utils.py # Utility functions (e.g., image download, preprocessing)
-├── train.csv # Training data
+feature-extraction-from-images/ 
+├── README.md # This file 
+├── main.py # Main Python script 
+├── constants.py # Allowed units and entity mappings 
+├── utils.py # Utility functions (e.g., image download, preprocessing) 
+├── train.csv # Training data 
 ├── test.csv # Test data
 ├── downloaded_images/ # Downloaded images
 
