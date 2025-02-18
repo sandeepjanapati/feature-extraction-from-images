@@ -59,7 +59,7 @@ feature-extraction-from-images/
 ├── test.csv                   # Test data
 ├── downloaded_images/         # Downloaded images
 └── test_predictions.csv       # Output file containing predictions
-
+```
 
 
 ## Dependencies
